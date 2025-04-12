@@ -4,7 +4,8 @@ This project uses machine learning to predict movie box office revenue based on 
 
 ## 📂 Project Structure
 movie-revenue-prediction/ 
-├── data/ # Datasets (raw and processed) 
+├── data/ # Datasets (raw and processed)
+
 ├── notebooks/ # Jupyter notebooks for EDA and modeling 
 ├── src/ # Source code for data processing and modeling 
 ├── requirements.txt # Project dependencies 
